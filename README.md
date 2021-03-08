@@ -1,11 +1,11 @@
-# Owoifier
-A Powercord plugin to change your message with a ~~cute~~ weeb one
+# Smollifier
+A Powercord plugin to change your message with a smol one
 
 ### Commands
-`{yourPowercordPrefix}owoify message` - owoifies your message and sends it.
+`{yourPowercordPrefix}smollify message` - smollifies your message and sends it.
 
-`{yourPowercordPrefix}owoifyauto` - welcome to the future where you can make it so all your messages get owoified.
+`{yourPowercordPrefix}smollifyauto` - welcome to the future where you can make it so all your messages get smollified.
 
 ### Installation
-1. Clone this repository into your Powercord plugins folder using `git clone https://github.com/powercord-community/owoifier.git`
+1. Clone this repository into your Powercord plugins folder using `git clone https://github.com/powercord-community/smollifier.git`
 2. Reload Discord using `Ctrl + R`
